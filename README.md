@@ -18,8 +18,3 @@ Desarrollar un sistema de información web que permita normalizar el control y s
 
 # Justificación #
 Dirigir esta serie de elementos permiten direccionar al vehículo dentro de los servicios del patio dando prioridad a los autobuses que tengan menos intervenciones a realizar ofreciendo oportunidad de disponibilidad de los buses alimentadores al sistema sin embargo, este tipo de captura de información a la entrada y la salida se realiza de forma manual generando inconvenientes de movilidad publica.
-
-
-
-# Mapa de Procesos #
-![image](https://user-images.githubusercontent.com/95714355/172736723-541d1683-e867-418c-a555-d0a153e06486.png)
